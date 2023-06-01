@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "allowJs": true,
+      "esModuleInterop": true,
+      "outDir": "dist",
+      "lib": ["es6"],
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "target": "es6",
+      "jsx": "react-native",
+      "types": []
+    },
+    "include": ["src"]
+  }
+  
